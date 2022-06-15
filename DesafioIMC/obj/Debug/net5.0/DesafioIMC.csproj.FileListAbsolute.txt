@@ -1,0 +1,16 @@
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\bin\Debug\net5.0\DesafioIMC.exe
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\bin\Debug\net5.0\DesafioIMC.deps.json
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\bin\Debug\net5.0\DesafioIMC.runtimeconfig.json
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\bin\Debug\net5.0\DesafioIMC.runtimeconfig.dev.json
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\bin\Debug\net5.0\DesafioIMC.dll
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\bin\Debug\net5.0\DesafioIMC.pdb
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.csproj.AssemblyReference.cache
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.AssemblyInfoInputs.cache
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.AssemblyInfo.cs
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.csproj.CoreCompileInputs.cache
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.dll
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\refint\DesafioIMC.dll
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.pdb
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\DesafioIMC.genruntimeconfig.cache
+C:\Users\note-francisco\source\repos\DesafioIMC\DesafioIMC\obj\Debug\net5.0\ref\DesafioIMC.dll
